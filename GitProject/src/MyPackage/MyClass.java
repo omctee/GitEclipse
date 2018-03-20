@@ -9,6 +9,7 @@ public class MyClass {
 		
 		Console.log("Hola");
 		Console.log("Mundo");
+		// adding comment
 	}
 
 }
