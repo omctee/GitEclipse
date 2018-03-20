@@ -7,8 +7,8 @@ public class MyClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Console.log("Hello");
-
+		Console.log("Hola");
+		Console.log("Mundo");
 	}
 
 }
